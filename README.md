@@ -1,7 +1,8 @@
 # Land Cover Classification and Change Analysis (1998-2024)
 ## KHDTK UGM Getas Forest Area
 
-![Land Cover Classification](images/classification_map.png)
+<img width="1858" height="885" alt="Screenshot 2025-10-28 012337" src="https://github.com/user-attachments/assets/7bf569d8-fef2-4347-b10f-6538652bc31b" />
+ Classification]
 
 ## 📋 Project Overview
 This project demonstrates automated land cover classification and temporal change analysis using Google Earth Engine for the KHDTK UGM Getas forest area. The analysis covers a 26-year period (1998-2024) using Landsat satellite imagery and machine learning algorithms.
